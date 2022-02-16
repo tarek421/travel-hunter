@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-section{
+section {
   padding: 50px 0;
 }
 
@@ -152,4 +152,6 @@ section{
 .img2 img {
   height: 500px;
   width: 100%;
+  object-fit: cover;
+  object-position: bottom;
 }
